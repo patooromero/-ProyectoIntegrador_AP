@@ -1,0 +1,42 @@
+.row {
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+.contenedor {
+    width: auto;
+}
+
+.parte1, .parte2 {
+    display: inline-block; 
+    text-align: justify;
+
+    padding-bottom: 48px;
+}
+
+/*ejeX, ejeY, Difuminado, color**/
+.img-proyecto {
+    box-shadow: 10px 10px 30px #000000;
+
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+
+
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    padding: 0;
+ 
+  }

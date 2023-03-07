@@ -1,0 +1,12 @@
+.row {
+    background-color: blanchedalmond;
+    padding: 20px;
+    
+}
+
+.linea {
+    border-top: 1px solid black;
+    height: 2px;
+    padding: 0;
+   
+  }
